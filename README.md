@@ -3,6 +3,10 @@
 - 📫 **How to reach me:** [luisrosada@mail.ru](mailto:luisrosada@mail.ru)
 
 - ⚡ **Fun fact:** I think I am funny!
+- ---
+
+### **Note**:  
+My first GitHub account [here](https://github.com/iamrosada) has several projects, but I lost access to it. You can find my updated work on this profile.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,8 +65,5 @@
 
 <img src="https://user-images.githubusercontent.com/59142372/235149067-eff90953-4669-43ab-a986-3a6c4d845f0b.gif"/>
 
----
 
-### **Note**:  
-My first GitHub account [here](https://github.com/iamrosada) has several projects, but I lost access to it. You can find my updated work on this profile.
 

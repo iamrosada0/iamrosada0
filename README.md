@@ -5,7 +5,10 @@
 - ⚡ **Fun fact:** I think I am funny!
 - ---
 
-### **Note**:  
+### **Note**:
+![image](https://github.com/user-attachments/assets/b1bec3f7-02ca-4fe5-aa3a-5fc9f650c357)
+
+
 My first GitHub account [here](https://github.com/iamrosada) has several projects, but I lost access to it. You can find my updated work on this profile.
 
 <h3 align="left">Connect with me:</h3>

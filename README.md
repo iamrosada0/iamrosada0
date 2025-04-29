@@ -5,7 +5,7 @@
 - ⚡ **Fun fact:** I think I am funny!
 - ---
 
-### **Note-I LOST MY FIRSR GIT, I STARTED THIS ON 2019, BUT MY FIRST CODE I DID ON 2015**:
+### **Note: I LOST MY FIRST GITHUB ACCOUNT. I STARTED IN 2019, BUT CREATED MY FIRST CODE IN 2015.**:
 ![image](https://github.com/user-attachments/assets/b1bec3f7-02ca-4fe5-aa3a-5fc9f650c357)
 
 
